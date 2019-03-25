@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Blog
-permalink: /
+permalink: //
 ---
 ## Hello world, new page. Larry page.
