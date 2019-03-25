@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Hello
-permalink: /hello/
+layout: default
+title: Blog
+permalink: /
 ---
 ## Hello world, new page. Larry page.
