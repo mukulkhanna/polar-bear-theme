@@ -3,7 +3,7 @@ title: Linear Digression
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   Jekyll Theme Demo
-baseurl: "/polar-bear-theme" # the subpath of your site, e.g. /blog/
+baseurl: "/polar-bear-theme/" # the subpath of your site, e.g. /blog/
 url: "http://mukulkhanna.github.io" # the base hostname & protocol for your site
 twitter_username: mkulkhanna
 github_username: mukulkhanna
