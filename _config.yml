@@ -9,8 +9,13 @@ twitter_username: mkulkhanna
 github_username: mukulkhanna
 
 # Build settings
-markdown: redcarpet
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
-redcarpet:
-  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
+# redcarpet:
+#   extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
